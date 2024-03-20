@@ -4,10 +4,10 @@
       Skip Nav
     </a>
     <!-- Create an SVG circle -->
-    <svg role="image" class="lg:block fixed top-0 right-0 z-0 -translate-x-1/2 -translate-y-1/2 opacity-10 text-purple-500 blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg role="img" class="lg:block fixed top-0 right-0 z-0 -translate-x-1/2 -translate-y-1/2 opacity-10 text-purple-500 blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
       <circle cx="150" cy="150" r="150" fill="currentColor" />
     </svg>
-    <svg role="image" class="lg:block fixed bottom-0 left-0 z-0 translate-x-1/2 translate-y-1/2 opacity-10 text-blue-500 blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg role="img" class="lg:block fixed bottom-0 left-0 z-0 translate-x-1/2 translate-y-1/2 opacity-10 text-blue-500 blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
       <circle cx="150" cy="150" r="150" fill="currentColor" />
     </svg>
     <div class="w-full max-w-7xl mx-auto px-6 lg:px-0 flex flex-col lg:flex-row gap-8 relative">
