@@ -3,8 +3,8 @@ title: Revolutionizing Berxi.com with a Tailored Design System
 description: My contributions to the Berxi.com website and app.
 image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,f_auto,fl_progressive,q_auto,w_736/v1710941651/josh-portfolio/berxi.jpg
 url: https://www.berxi.com
-previousUrl: /projects/atk
-nextUrl: /projects/logatot
+previousUrl: /projects/project/atk
+nextUrl: /projects/project/logatot
 color: bg-berxi-2
 date: 2023-01-01
 logo: BerxiLogo

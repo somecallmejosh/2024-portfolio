@@ -3,8 +3,8 @@ title: Enhancing Digital Experiences at America’s Test Kitchen
 description: My contributions to the America's Test Kitchen website and app.
 image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,f_auto,fl_progressive,q_auto,w_736/v1710941652/josh-portfolio/atk.jpg
 url: https://www.americastestkitchen.com
-previousUrl: /projects/logatot
-nextUrl: /projects/berxi
+previousUrl: /projects/project/logatot
+nextUrl: /projects/project/berxi
 color: 'bg-atk'
 date: 2023-01-01
 logo: AtkLogo
