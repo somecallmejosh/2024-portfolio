@@ -14,5 +14,10 @@ export default defineNuxtConfig({
     },
   },
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content'],
+  content: {
+    markdown: {
+      anchorLinks: false,
+    },
+  },
 })
