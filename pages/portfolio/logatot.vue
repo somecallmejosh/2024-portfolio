@@ -34,15 +34,8 @@
       </ul>
       <h2>Impact</h2>
       <p>The work at Logatot stands as a testament to the power of thoughtful design and innovative technology in addressing real-world challenges. By prioritizing user experience and operational efficiency, we were able to deliver a solution that not only meets the needs of family child care providers but also enriches the care environment for children. This project highlights my commitment to leveraging design and development skills to make a tangible difference in people’s lives, demonstrating the potential to drive positive change through technology.</p>
-      <p>Visit <a href="https://www.logatot.com" target="_blank" rel="noreferrer">www.logatot.com</a></p>
-      <nav aria-label="Portfolio" class="px-12 py-6 mt-12 -mx-12 -mb-20 bg-gray-100 lg:-mx-24 lg:px-24 lg:-mb-24">
-        <ul class="flex items-center justify-between w-full list-none not-prose">
-          <li><nuxt-link to="/portfolio/berxi">Previous <span class="sr-only">Portfolio Item</span></nuxt-link></li>
-          <li>
-            <nuxt-link to="/portfolio/atk">Next <span class="sr-only">Portfolio Item</span></nuxt-link>
-          </li>
-        </ul>
-      </nav>
+      <LinkNewWindow href="https://www.logatot.com"></LinkNewWindow>
+      <PortfolioNav previousUrl="/portfolio/berxi" nextUrl="/portfolio/atk" />
     </div>
   </div>
 </template>
