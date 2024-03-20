@@ -1,3 +1,12 @@
+<script setup>
+  useHead({
+    title: 'UX/UI Portfolio | Joshua Briley',
+    meta: [
+      { name: 'description', content: 'Welcome to my portfolio site.' }
+    ]
+  })
+</script>
+
 <template>
   <div class="min-h-screen py-24 relative scroll-smooth bg-gradient-to-b from-blue-50 via-pink-100 to-blue-100">
     <a href="#main-content" class="absolute top-0 left-0 -translate-y-full bg-gray-500 focus:translate-y-0 transition-transform origin-top p-6 text-white hover:bg-gray-600 transition-color duration-150" tabindex="0">

@@ -1,3 +1,11 @@
+<script setup>
+  useHead({
+    title: 'Portfolio Sample | America’s Test Kitchen',
+    meta: [
+      { name: 'description', content: 'My contributions to the America\'s Test Kitchen website and app.' }
+    ]
+  })
+</script>
 <template>
   <div>
     <div class="p-12 py-20 lg:p-24 prose max-w-full">

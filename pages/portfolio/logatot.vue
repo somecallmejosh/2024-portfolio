@@ -1,3 +1,11 @@
+<script setup>
+  useHead({
+    title: 'Portfolio Sample | LogATot',
+    meta: [
+      { name: 'description', content: 'My contributions to the LogATot website and app.' }
+    ]
+  })
+</script>
 <template>
   <div>
     <div class="p-12 py-20 lg:p-24 prose max-w-full">
