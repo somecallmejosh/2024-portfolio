@@ -11,7 +11,7 @@ logo: LogatotLogo
 techUsed: ['Tailwind CSS', 'HTMX', 'AlpineJS', 'Ruby on Rails', 'Ruby ViewComponents']
 ---
 
-# Project Overview at LogATot
+## Project Overview at LogATot
 
 LogATot, a startup dedicated to supporting family child care providers, embarked on a project to alleviate the administrative load through an innovative voice-based event logging application. This initiative aimed to streamline daily documentation processes, enabling caregivers to concentrate more on quality interactive care. As the lead on application design and front-end development, I was pivotal in integrating the voice-logging feature, designing print materials, contributing to backend development, and establishing a consistent brand identity, all tailored to enhance operational efficiency in childcare settings.
 

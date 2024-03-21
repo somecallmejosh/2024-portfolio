@@ -14,7 +14,7 @@
 </script>
 
 <template>
-  <section-wrapper class="prose prose-p:text-slate-600">
+  <section-wrapper>
     <nav aria-label="Breadcrumb" class="mb-6 text-sm lg:mb-10">
       <ol class="flex items-center max-w-full gap-2 overflow-x-scroll not-prose whitespace-nowrap">
         <li class="text-slate-600">

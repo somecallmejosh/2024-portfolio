@@ -11,7 +11,7 @@ logo: AtkLogo
 techUsed: ['React/Next', 'Sass/SCSS']
 ---
 
-# Challenges and Solutions at America's Test Kitchen
+## Challenges and Solutions at America's Test Kitchen
 
 Over the years, my tenure at America's Test Kitchen presented multifaceted challenges that required innovative solutions, technical skill, and close collaboration across various teams. The goal was to enhance the digital experience for both the internal teams and the audience of ATK’s multiple brands. Here's a deeper dive into these challenges and the strategies employed to overcome them:
 
