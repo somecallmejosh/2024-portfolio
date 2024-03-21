@@ -1,14 +1,7 @@
 <template>
   <div class="sticky pt-12 bg-white top-20 rounded-xl">
     <div class="relative w-56 h-48 mx-auto transition-all duration-500 -translate-y-24 bg-gray-50 rounded-2xl hover:blur group">
-    <NuxtImg
-      class="relative z-0 flex-none object-cover w-56 h-48 rounded-2xl"
-      src="https://www.logatot.com/assets/team/josh-95a85dfb5617d380bc60162eafa2d6fe6413112b22c35f161d6589f11580eb34.jpg"
-      alt="Joshua Briley, UX/UI Developer"
-      loading="lazy"
-      layout="fill"
-      objectFit="cover"
-      objectPosition="center" />
+      <img class="relative z-0 flex-none object-cover w-56 h-48 rounded-2xl" src="https://www.logatot.com/assets/team/josh-95a85dfb5617d380bc60162eafa2d6fe6413112b22c35f161d6589f11580eb34.jpg" alt="Joshua Briley, UX/UI Developer" loading="lazy">
     </div>
     <div class="-mt-14">
       <div class="px-4 mb-10 text-center">

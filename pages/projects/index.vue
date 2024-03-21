@@ -14,7 +14,7 @@ const {data} = useAsyncData('projectsList', () => {
         <li v-for="(project, index) in data" :key="index"
           class="relative p-4 rounded-lg group bg-slate-50">
           <div class="aspect-[16/9] not-prose rounded-lg overflow-hidden">
-            <NuxtImg :src="project.image" :alt="project.title" class="transition-transform duration-300 group-hover:scale-110" />
+            <img :src="project.image" :alt="project.title" class="transition-transform duration-300 group-hover:scale-110" loading="lazy">
           </div>
           <div>
             <h3 class="text-sm font-medium">{{ project.title }}</h3>
