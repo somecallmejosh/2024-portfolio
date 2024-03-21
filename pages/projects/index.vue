@@ -6,7 +6,7 @@ const {data} = useAsyncData('projectsList', () => {
 </script>
 <template>
   <div>
-    <div class="max-w-full p-6 py-12 prose lg:py-20 prose-p:text-slate-600 lg:p-24">
+    <section-wrapper class=" prose-p:text-slate-600">
       <h1>Recent UX/UI Projects</h1>
       <p class="text-slate-600">I'm Joshua Briley, and I specialize in UI design and front-end development. Over the years, I've focused on creating clear, user-friendly, and accessible digital products. My role has often bridged the gap between design and development, working directly with both stakeholders and technical teams to ensure that the final product meets everyone's needs. Here, you'll find a selection of projects that showcase my approach to design and development, highlighting my commitment to practical, effective solutions.</p>
       <h2>Recent Projects</h2>
@@ -22,6 +22,6 @@ const {data} = useAsyncData('projectsList', () => {
           <nuxt-link :to="project._path" class="absolute inset-0 z-10 block -bottom-6"></nuxt-link>
         </li>
       </ul>
-    </div>
+    </section-wrapper>
   </div>
 </template>
