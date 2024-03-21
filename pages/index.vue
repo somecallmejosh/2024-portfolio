@@ -1,10 +1,10 @@
 <template>
   <div>
-    <div class="max-w-full p-12 py-20 prose lg:p-24">
+    <div class="max-w-full p-6 py-12 prose lg:py-20 lg:p-24">
       <h1 class="max-w-[60ch]">Navigating the Art of Web Application Design</h1>
       <p class="text-slate-600">Hello! I'm Joshua. In the realm of web applications, my passion lies in distilling complex challenges into clear, user-friendly solutions. With over two decades of experience spanning various industries, my focus has always been on making web applications not only functional and intuitive but also seamlessly integrated into our daily tasks. Through a blend of thoughtful design and technical precision, I aim to create experiences that enhance productivity and simplify the digital landscape for users everywhere. Join me in exploring the potential of web applications to transform our digital interactions.</p>
     </div>
-    <div class="max-w-full p-12 py-20 prose lg:p-24 bg-slate-50">
+    <div class="max-w-full p-6 py-12 prose lg:py-20 lg:p-24 bg-slate-50">
       <h2 class="max-w-[60ch]">Simplifying the Web Experience</h2>
       <p class="max-w-[60ch]">In my journey through web application design, I've navigated the intricacies to bring about clarity and ease. With over two decades of diverse experience, I focus on:</p>
       <ul class="grid gap-6 p-0 m-0 list-none lg:grid-cols-2 prose-li:m-0">
@@ -43,7 +43,7 @@
       </ul>
       <p class="max-w-[60ch]">The goal is to create web applications that are not just functional but enriching to use, enhancing daily interactions in the digital realm.</p>
     </div>
-    <div class="max-w-full p-12 py-20 prose lg:p-24">
+    <div class="max-w-full p-6 py-12 prose lg:py-20 lg:p-24">
       <h2>Exploring My Work</h2>
       <p class="max-w-[60ch] text-slate-600">Take a look through my portfolio to see how I've approached various challenges with creativity and a keen eye on user experience and practical business objectives.</p>
 

@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,
 url: https://www.logatot.com
 previousUrl: /projects/project/berxi
 nextUrl: /projects/project/atk
-color: 'bg-logatot'
+color: 'logatot'
 date: 2023-01-01
 logo: LogatotLogo
 techUsed: ['Tailwind CSS', 'HTMX', 'AlpineJS', 'Ruby on Rails', 'Ruby ViewComponents']

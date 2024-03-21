@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,
 url: https://www.berxi.com
 previousUrl: /projects/project/atk
 nextUrl: /projects/project/logatot
-color: bg-berxi-2
+color: berxi-2
 date: 2023-01-01
 logo: BerxiLogo
 techUsed: ['Vue/Nuxt.js', 'Tailwind CSS']

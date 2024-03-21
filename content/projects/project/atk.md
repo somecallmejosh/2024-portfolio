@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,
 url: https://www.americastestkitchen.com
 previousUrl: /projects/project/logatot
 nextUrl: /projects/project/berxi
-color: 'bg-atk'
+color: 'atk'
 date: 2023-01-01
 logo: AtkLogo
 techUsed: ['React/Next', 'Sass/SCSS']

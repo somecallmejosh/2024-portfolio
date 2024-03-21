@@ -15,10 +15,10 @@
 
 <template>
   <div>
-    <div class="max-w-full p-12 py-20 prose prose-p:text-slate-600 lg:p-24">
+    <div class="max-w-full p-6 py-12 prose lg:py-20 prose-p:text-slate-600 lg:p-24">
       <nav aria-label="Breadcrumb" class="mb-6 text-sm">
         <ol class="flex items-center max-w-full gap-2 overflow-x-scroll not-prose whitespace-nowrap">
-          <li>
+          <li class="text-slate-600">
             <nuxt-link to="/projects">Projects</nuxt-link>
           </li>
           <li aria-hidden="true">
@@ -53,3 +53,14 @@
     </div>
   </div>
 </template>
+<style>
+.atk {
+  @apply bg-atk;
+}
+.berxi-2 {
+  @apply bg-berxi-2;
+}
+.logatot {
+  @apply bg-logatot;
+}
+</style>
