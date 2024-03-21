@@ -1,7 +1,7 @@
 ---
 - title: 'Logatot: Simplifying Childcare with Voice-Based Event Logging'
 - description: My contributions to the LogATot website and childcare management system appliation.
-- image: https://res.cloudinary.com/dwjulenau/image/upload/- ar_16:9,c_fill,dpr_2.0,f_auto,fl_progressive,q_auto,w_736/v1710941651/josh-portfolio/logatot.jpg
+- image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,f_auto,fl_progressive,q_auto,w_736/v1710941651/josh-portfolio/logatot.jpg
 - url: https://www.logatot.com
 - previousUrl: /projects/project/berxi
 - nextUrl: /projects/project/atk
