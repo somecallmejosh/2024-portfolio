@@ -15,7 +15,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <nav aria-label="Portfolio" class="px-12 py-6 mt-12 -mx-12 -mb-20 bg-purple-50 lg:-mx-24 lg:px-24 lg:-mb-24">
+  <nav aria-label="Portfolio" class="px-12 py-6 mt-12 -mx-12 -mb-20 bg-slate-50 lg:-mx-24 lg:px-24 lg:-mb-24">
     <ul class="flex items-center justify-between w-full list-none not-prose">
       <li>
         <nuxt-link :to="previousUrl" class="flex items-center gap-1 group">
