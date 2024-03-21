@@ -27,9 +27,9 @@
       <div class="pt-6 pb-12">
         <ContentDoc />
         <h2>Technologies</h2>
-        <ul class="flex items-center gap-1 not-prose">
+        <ul class="flex items-center max-w-full gap-1 overflow-x-scroll not-prose">
           <li v-for="(technology, index) in blogPost.techUsed" :key="index">
-            <p class="px-1 py-0.5 rounded border border-purple-200 text-purple-800 text-xs font-medium">{{ technology }}</p>
+            <p class="px-1 py-0.5 rounded border border-purple-200 text-purple-800 text-xs font-medium whitespace-nowrap">{{ technology }}</p>
           </li>
         </ul>
       </div>
