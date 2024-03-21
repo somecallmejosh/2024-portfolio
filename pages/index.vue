@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="max-w-full p-12 py-20 prose lg:p-24">
-      <h1>Crafting User Experiences That Resonate</h1>
-      <p>Hello and welcome! I’m Joshua, a UI/UX Developer Lead and Design System Creator with a passion for transforming complex problems into elegant, user-centric digital experiences. With over twenty years of experience across diverse industries, my journey has been driven by one core mission: to create interfaces that are not just functional and accessible, but truly delightful.</p>
+      <h1>Navigating the Art of Web Application Design</h1>
+      <p>Hello! I'm Joshua. In the realm of web applications, my passion lies in distilling complex challenges into clear, user-friendly solutions. With over two decades of experience spanning various industries, my focus has always been on making web applications not only functional and intuitive but also seamlessly integrated into our daily tasks. Through a blend of thoughtful design and technical precision, I aim to create experiences that enhance productivity and simplify the digital landscape for users everywhere. Join me in exploring the potential of web applications to transform our digital interactions.</p>
     </div>
     <div class="max-w-full p-12 py-20 prose lg:p-24 bg-slate-50">
       <h2>Expertise That Empowers</h2>
