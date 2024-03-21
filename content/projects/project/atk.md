@@ -11,21 +11,33 @@ logo: AtkLogo
 techUsed: ['React/Next', 'Sass/SCSS']
 ---
 
-## Project Overview
-America's Test Kitchen is a renowned name in the culinary world, dedicated to perfecting recipes, reviewing cookware, and offering cooking tips through its television shows, magazines, and cookbooks. Known for its rigorous testing methods, the company employs a team of chefs, testers, and researchers to explore every aspect of cooking to provide viewers and readers with foolproof recipes and detailed product recommendations. America's Test Kitchen serves a diverse audience of home cooks looking for reliable, thoroughly tested recipes and cooking advice, aiming to enhance the home cooking experience by making it more accessible and enjoyable for everyone.
+# Challenges and Solutions at America's Test Kitchen
 
-At America’s Test Kitchen, I was entrusted with the pivotal role of elevating our digital presence across the ATK suite of sites through innovative front-end strategies. My journey began with the creation of a utility-based CSS framework and culminated in significant contributions to the design system team, directly impacting user experience, brand consistency, and operational efficiency.
+Over the years, my tenure at America's Test Kitchen presented multifaceted challenges that required innovative solutions, technical skill, and close collaboration across various teams. The goal was to enhance the digital experience for both the internal teams and the audience of ATK’s multiple brands. Here's a deeper dive into these challenges and the strategies employed to overcome them:
 
-## Challenge
-The core challenge revolved around modernizing the user interface across ATK’s digital platforms in a way that not only enhanced user engagement but also streamlined the development process. This required a delicate balance of technical innovation, design fidelity, and cross-departmental collaboration to ensure that the end product was both visually appealing and functionally robust.
+## Custom Content Management System Development
 
-## Solution
-- **Utility-Based CSS Framework**: Leveraging Sass/SCSS, I developed a utility-based CSS framework that empowered the development team with reusable, scalable styles, significantly speeding up the development process while ensuring visual consistency.
-- **Design System Team Leadership**: Transitioning to the design system team, I spearheaded the adoption of React/Next.js and integrated Storybook for comprehensive component documentation. This initiative was crucial in building a cohesive, accessible UI component library.
-- **Collaboration Across Teams**: Design Integration: I worked closely with the design team to ensure that Figma comps were not only feasible but also translated into meticulously executed designs, bridging the gap between vision and reality.
-- **Marketing Synergy**: Collaboration with the marketing team was key in maintaining brand consistency across platforms and implementing tracking metrics to accurately measure user engagement.
-- **Product Development**: I ensured that sprint planning and execution were seamlessly aligned with the expectations of product owners, facilitating timely delivery of features and enhancements.
-- **Backend Collaboration**: My interaction with backend Ruby on Rails developers was vital in ensuring that the front-end implementations were well-supported by robust backend functionalities.
+- **Challenge**: The need for a custom content management system (CMS) called "Barista" emerged to increase content editors' productivity, reduce their dependency on the engineering team, and decrease the time to market for new content.
+- **Solution**: Developed and iteratively improved Barista, a CMS tailored to the specific needs of ATK's content editors. This system streamlined content creation and management processes, enabling faster content delivery and greater autonomy for editors.
 
-## Impact
-My contributions to America’s Test Kitchen represented a blend of technical innovation and collaborative synergy, leading to an enhanced digital experience that resonated with our audience. The utility-based CSS framework and the React/Next.js design system set new standards for development efficiency and user engagement. Through diligent work with QA on accessibility, we ensured that our sites met and exceeded compliance standards, making our content accessible to a wider audience. This comprehensive approach not only elevated the brand’s digital presence but also set a scalable foundation for future growth and innovation.
+## Usability and Consistency Improvements
+
+- **Challenge**: Continuously improving Barista's usability and consistency was crucial for the content edit team and project managers, ensuring an intuitive and efficient work environment.
+- **Solution**: Regularly collaborated with the content edit team and project managers to gather feedback and implement updates that enhanced the system's interface and workflow, leading to a more cohesive and user-friendly platform.
+
+## Accessibility Enhancements
+
+- **Challenge**: Improving accessibility for the content edit team and third-party vendors was a priority to ensure inclusivity and compliance with web accessibility standards.
+- **Solution**: Focused on enhancing accessibility features within Barista and other digital offerings, including testing and refining content hierarchy, contrast ratios, text sizes, screen reader compatibility, and keyboard navigation.
+
+## Reusable Components for Multiple Brands
+
+- **Challenge**: Creating reusable components for use across ATK’s diverse brands, including Cook's Illustrated, Cook's Country, Cooking School, and other digital products, to ensure brand consistency and development efficiency.
+- **Solution**: Worked closely with design and marketing teams to develop a library of reusable components. These components were designed for flexibility across brands, maintaining visual and functional consistency.
+
+## Accessibility and Documentation of Components
+
+- **Challenge**: Ensuring the new reusable components met the highest accessibility standards and were well-documented for easy implementation across different projects.
+- **Solution**: Partnered with the QA team to rigorously test components for accessibility, focusing on aspects like content hierarchy, contrast, legibility, and keyboard accessibility. Additionally, worked with engineering teams to document these components in Storybook, clarifying props and methods to streamline development processes.
+
+These challenges at America’s Test Kitchen underscored the importance of continuous improvement, cross-team collaboration, and a user-centered approach in digital product development. Through these efforts, we not only improved the internal workflow and productivity but also enhanced the user experience across ATK’s digital landscape, laying a solid foundation for future innovations.
