@@ -1,8 +1,8 @@
 <template>
   <div>
     <section-wrapper>
-      <h1 class="max-w-[60ch]">Navigating the Art of Web Application Design</h1>
-      <p class="text-slate-600">Hi, I'm Joshua. I love simplifying web applications, turning complexity into clarity and ease for everyone. With twenty years across different sectors, I strive to make web apps more than just functional—they're a seamless part of your day. Let's discover how thoughtful design and smart tech can make the digital world simpler and more productive for us all.</p>
+      <h1 class="max-w-[20ch]">Navigating the Art of Web Application Design</h1>
+      <p class="text-slate-600">Hi, I'm Joshua. <strong>I love simplifying web applications</strong>, turning complexity into clarity and ease for everyone. With twenty years across different sectors, I strive to make web apps more than just functional—they're a seamless part of your day. Let's discover how thoughtful design and smart tech can make the digital world simpler and more productive for us all.</p>
     </section-wrapper>
     <section-wrapper class="bg-slate-50">
       <h2 class="max-w-[60ch]">Simplifying the Web Experience</h2>
