@@ -2,7 +2,7 @@
   <div>
     <section-wrapper>
       <h1 class="max-w-[60ch]">Navigating the Art of Web Application Design</h1>
-      <p class="text-slate-600">Hello! I'm Joshua. In the realm of web applications, my passion lies in distilling complex challenges into clear, user-friendly solutions. With over two decades of experience spanning various industries, my focus has always been on making web applications not only functional and intuitive but also seamlessly integrated into our daily tasks. Through a blend of thoughtful design and technical precision, I aim to create experiences that enhance productivity and simplify the digital landscape for users everywhere. Join me in exploring the potential of web applications to transform our digital interactions.</p>
+      <p class="text-slate-600">Hi, I'm Joshua. I love simplifying web applications, turning complexity into clarity and ease for everyone. With twenty years across different sectors, I strive to make web apps more than just functional—they're a seamless part of your day. Let's discover how thoughtful design and smart tech can make the digital world simpler and more productive for us all.</p>
     </section-wrapper>
     <section-wrapper class="bg-slate-50">
       <h2 class="max-w-[60ch]">Simplifying the Web Experience</h2>
