@@ -1,6 +1,6 @@
 ---
 title: Enhancing Digital Experiences at America’s Test Kitchen
-description: My contributions to the America's Test Kitchen website and app.
+description: Collaboratively enhancing the web application for a seamless digital culinary journey.
 image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,f_auto,fl_progressive,q_auto,w_736/v1710941652/josh-portfolio/atk.jpg
 url: https://www.americastestkitchen.com
 previousUrl: /projects/project/logatot
@@ -8,36 +8,42 @@ nextUrl: /projects/project/berxi
 color: 'atk'
 date: 2023-01-01
 logo: AtkLogo
-techUsed: ['React/Next', 'Sass/SCSS']
+techUsed: ['React/Next', 'Sass/SCSS', 'Ruby on Rails', 'AlpineJS']
 ---
 
 ## Challenges and Solutions at America's Test Kitchen
 
-Over the years, my tenure at America's Test Kitchen presented multifaceted challenges that required innovative solutions, technical skill, and close collaboration across various teams. The goal was to enhance the digital experience for both the internal teams and the audience of ATK’s multiple brands. Here's a deeper dive into these challenges and the strategies employed to overcome them:
+During my time at America's Test Kitchen (ATK), I encountered a variety of challenges that pushed the boundaries of my expertise in web application design and front-end development. The overarching goal was to refine the digital experience for both our team members and the vast audience of ATK's beloved brands.
 
-## Custom Content Management System Development
+## Design and Development Contributions
 
-- **Challenge**: The need for a custom content management system (CMS) called "Barista" emerged to increase content editors' productivity, reduce their dependency on the engineering team, and decrease the time to market for new content.
-- **Solution**: Developed and iteratively improved Barista, a CMS tailored to the specific needs of ATK's content editors. This system streamlined content creation and management processes, enabling faster content delivery and greater autonomy for editors.
+Here's an insight into the challenges we faced and the innovative solutions we implemented:
 
-## Usability and Consistency Improvements
+### Custom Content Management System Development
 
-- **Challenge**: Continuously improving Barista's usability and consistency was crucial for the content edit team and project managers, ensuring an intuitive and efficient work environment.
-- **Solution**: Regularly collaborated with the content edit team and project managers to gather feedback and implement updates that enhanced the system's interface and workflow, leading to a more cohesive and user-friendly platform.
+- **Challenge**: The editorial team needed a more efficient way to produce and manage content, aiming to reduce reliance on our engineering team and expedite content availability.
+- **Solution**: I led the design and front end development of "Barista," a custom CMS designed specifically for ATK's needs. This platform enhanced our content creation workflow, empowering editors with faster delivery and greater independence.
 
-## Accessibility Enhancements
+### Usability and Consistency Improvements
 
-- **Challenge**: Improving accessibility for the content edit team and third-party vendors was a priority to ensure inclusivity and compliance with web accessibility standards.
-- **Solution**: Focused on enhancing accessibility features within Barista and other digital offerings, including testing and refining content hierarchy, contrast ratios, text sizes, screen reader compatibility, and keyboard navigation.
+- **Challenge**: It was vital to enhance the usability and consistency of Barista for our content editors and project managers, promoting a more intuitive and efficient environment.
+- **Solution**: By fostering ongoing dialogue with the team, I spearheaded updates that refined the system's interface and operational flow, achieving a unified and user-friendly platform.
 
-## Reusable Components for Multiple Brands
+### Accessibility Enhancements
 
-- **Challenge**: Creating reusable components for use across ATK’s diverse brands, including Cook's Illustrated, Cook's Country, Cooking School, and other digital products, to ensure brand consistency and development efficiency.
-- **Solution**: Worked closely with design and marketing teams to develop a library of reusable components. These components were designed for flexibility across brands, maintaining visual and functional consistency.
+- **Challenge**: Ensuring our digital tools were inclusive and met web accessibility standards was paramount, especially for our content team and external partners.
+- **Solution**: I concentrated efforts on elevating Barista's accessibility, adjusting content structures, contrasts, and navigation to cater to all users.
 
-## Accessibility and Documentation of Components
+### Reusable Components for Multiple Brands
 
-- **Challenge**: Ensuring the new reusable components met the highest accessibility standards and were well-documented for easy implementation across different projects.
-- **Solution**: Partnered with the QA team to rigorously test components for accessibility, focusing on aspects like content hierarchy, contrast, legibility, and keyboard accessibility. Additionally, worked with engineering teams to document these components in Storybook, clarifying props and methods to streamline development processes.
+- **Challenge**: With ATK's array of brands, it was essential to develop components that could be adapted across different platforms without sacrificing consistency or efficiency.
+- **Solution**: Collaborating with our design and marketing teams, I helped create a versatile library of components, ensuring brand coherence and streamlined development.
 
-These challenges at America’s Test Kitchen underscored the importance of continuous improvement, cross-team collaboration, and a user-centered approach in digital product development. Through these efforts, we not only improved the internal workflow and productivity but also enhanced the user experience across ATK’s digital landscape, laying a solid foundation for future innovations.
+### Accessibility and Documentation of Components
+
+- **Challenge**: Our new component library needed to adhere to the highest standards of accessibility and be thoroughly documented for effortless application across projects.
+- **Solution**: In partnership with our QA and engineering teams, I ensured these components were accessible and well-documented in Storybook, facilitating easy use and integration.
+
+## Impact
+
+The journey at America’s Test Kitchen highlighted the critical role of innovation, teamwork, and user-focused design in enhancing digital products. These initiatives significantly improved our internal operations and the digital experience for ATK’s audience, setting a strong foundation for future advancements.

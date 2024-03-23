@@ -1,6 +1,6 @@
 ---
 title: Revolutionizing Berxi.com with a Tailored Design System
-description: My contributions to the Berxi.com website and app.
+description: Developing a custom design system that serves the complex needs of a web application, ensuring a cohesive brand and user experience.
 image: https://res.cloudinary.com/dwjulenau/image/upload/ar_16:9,c_fill,dpr_2.0,f_auto,fl_progressive,q_auto,w_736/v1710941651/josh-portfolio/berxi.jpg
 url: https://www.berxi.com
 previousUrl: /projects/project/atk
@@ -8,42 +8,44 @@ nextUrl: /projects/project/logatot
 color: berxi-2
 date: 2023-01-01
 logo: BerxiLogo
-techUsed: ['Vue/Nuxt.js', 'Tailwind CSS']
+techUsed: ['Vue/Nuxt.js', 'Tailwind CSS', 'Contentful CMS', 'Segment Tracking', 'Heap Analytics', 'Google Tag Manager', 'Various Social Media Tracking Services']
 ---
 
 ## Project Overview at Berxi.com
 
-As the principal design engineer at Berxi.com, a Berkshire Hathaway Specialty Insurance startup, I led the revamp of the website and insurance application's user interface, introducing a custom design system. This initiative aimed to improve usability, accessibility, and brand cohesion, addressing the needs of users, the business, and the development team.
+As the principal design engineer at Berxi.com, part of Berkshire Hathaway Specialty Insurance, I spearheaded the transformation of the website and insurance application interface by developing a bespoke design system. This initiative was centered around elevating usability, accessibility, and brand unity, catering to the multifaceted needs of our users, the business, and our development team.
 
-## Challenges and Solutions
+## Design and Development Contributions
 
-## Balancing User Expectations, Business Objectives, and Developer Experience
+### Balancing Stakeholder Needs
 
-- **Challenge**: The main challenge was creating a design system that met user expectations, supported business scalability, and was developer-friendly.
-- **Solution**: I developed a design system using Tailwind CSS and Vue.js, emphasizing flexibility, scalability, and accessibility. This ensured the system could grow with the business and be easily adopted by developers.
+- **Challenge**: The primary challenge was devising a design system that aligned with user expectations, supported business growth, and facilitated developer adoption.
+- **Solution**: Utilizing Tailwind CSS and Vue.js, I engineered a design system that underscored flexibility, scalability, and accessibility, ensuring adaptability for future growth and ease of integration for developers.
 
-## Innovative Design System and Technology Stack Selection
+### Tech Stack Optimization
 
-- **Challenge**: Selecting a technology stack that enhanced developer productivity and aligned with the project's goals was critical.
-- **Solution**: After thorough evaluation, I chose technologies that emphasized ease of use, comprehensive documentation, and superior developer experience, fostering an innovative development environment.
-Collaboration Across Teams
+- **Challenge**: Choosing a technology stack that would boost developer productivity while meeting project objectives was essential.
+- **Solution**: After a comprehensive assessment, I selected technologies known for their user-friendliness, extensive documentation, and enhancement of developer experience, thereby nurturing an environment ripe for innovation.
 
-- **Challenge**: Ensuring a cohesive user experience while integrating marketing strategies and backend functionalities.
-- **Solution**: Worked closely with design, UX, and marketing teams for a unified brand experience, and collaborated with backend developers for smooth integration of the design system.
+### Interdepartmental Collaboration
+- **Challenge**: Achieving a unified user experience that seamlessly integrates marketing initiatives and backend functionalities.
+- **Solution**: I facilitated close collaboration between the design, UX, and marketing teams to ensure brand consistency, working alongside backend developers to ensure smooth implementation of the design system.
 
-## User Data Tracking
+### Enhanced User Data Insights
 
-- **Challenge**: Needed to track user data without causing performance issues or conflicts.
-- **Solution**: Collaborated with UX, product, and marketing to set up tracking and reporting that provided valuable data for continuous improvement without impacting site performance.
-Content Management and Marketing Campaigns
+- **Challenge**: Implementing user data tracking without compromising performance or functionality.
+- **Solution**: In partnership with the UX, product, and marketing teams, I established a tracking framework that delivered insightful data for ongoing refinement, all without detracting from site performance.
 
-- **Challenge**: The content and marketing teams required solutions to manage content and track the effectiveness of print marketing campaigns without heavy dependency on engineering.
-- **Solution**: Implemented systems that allowed content and marketing teams to manage, plan, and review content and manage vanity URLs for marketing campaigns, enhancing their independence and effectiveness.
+### Content and Marketing Empowerment
 
-## UI Component Library Creation
+- **Challenge**: Empowering content and marketing teams to manage campaigns and content effectively without over-reliance on the engineering team.
+- **Solution**: I implemented solutions that granted these teams autonomy in content management and marketing campaign tracking, significantly enhancing their operational efficiency.
 
-- **Challenge**: Ensuring UI consistency and advancing web accessibility initiatives.
-- **Solution**: Created a UI component library that standardized design elements, fostering confidence among developers and speeding up the development process.
-Impact
+### UI Component Library Development
 
-The establishment of a comprehensive, user-centric design system at Berxi.com has significantly influenced the company's approach to digital product development. By prioritizing accessibility, enhancing the developer experience, and fostering collaboration, we've set a solid groundwork for continuous innovation and excellence in our digital products and services. This approach has not only streamlined internal processes but also elevated the overall user experience, ensuring that Berxi.com remains competitive and responsive to user needs.
+- **Challenge**: Maintaining UI consistency across the platform while pushing forward web accessibility goals.
+- **Solution**: I created a UI component library that standardized design elements, bolstering developer confidence and accelerating the development workflow.
+
+## Impact
+
+The creation of a comprehensive, user-focused design system for Berxi.com has profoundly reshaped the company's approach to digital product development. By putting accessibility at the forefront, improving the developer experience, and encouraging cross-team collaboration, we've laid a robust foundation for ongoing innovation and excellence. This strategy not only streamlined our internal workflows but also significantly enhanced the user experience, positioning Berxi.com as a forward-thinking leader in the digital space.

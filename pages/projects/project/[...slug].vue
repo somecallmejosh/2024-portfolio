@@ -38,16 +38,16 @@
         </div>
       </div>
     </div>
-    <div class="pt-6 pb-12 lg:py-12">
+    <LinkNewWindow :href="blogPost.url"></LinkNewWindow>
+    <div class="">
       <ContentDoc />
-      <h2>Technologies</h2>
-      <ul class="flex items-center max-w-full gap-1 overflow-x-scroll not-prose">
+      <h2>Relevant Technologies</h2>
+      <ul class="flex flex-wrap items-center max-w-full gap-2 not-prose">
         <li v-for="(technology, index) in blogPost.techUsed" :key="index">
           <p class="px-1 py-0.5 rounded border border-slate-200 text-xs font-medium whitespace-nowrap">{{ technology }}</p>
         </li>
       </ul>
     </div>
-    <LinkNewWindow :href="blogPost.url"></LinkNewWindow>
     <PortfolioNav :previousUrl="blogPost.previousUrl" :nextUrl="blogPost.nextUrl" />
   </section-wrapper>
 </template>
