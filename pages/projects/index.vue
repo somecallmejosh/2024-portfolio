@@ -8,7 +8,7 @@ const {data} = useAsyncData('projectsList', () => {
   <div>
     <section-wrapper>
       <h1 class="max-w-[20ch]">My Journey in UX/UI Design and Front-End Development</h1>
-      <p class="text-slate-600">I'm Joshua Briley, where my passion lies in bridging the gap between design and technical implementation, particularly in the realm of web applications. My work is characterized by a commitment to creating interfaces that are not just user-friendly and accessible, but are also crafted with the intricacies of front-end development in mind. Below are projects that epitomize my approach to marrying design with functionality in web application development.</p>
+      <p class="text-slate-600">I'm Joshua Briley. My passion lies in bridging the gap between design and technical implementation, particularly in the realm of web applications. My work is characterized by a commitment to creating interfaces that are not just user-friendly and accessible, but are also crafted with the intricacies of front-end development in mind. Below are projects that epitomize my approach to marrying design with functionality in web application development.</p>
       <h2>Featured Projects</h2>
       <ul class="grid gap-6 p-0 m-0 list-none lg:grid-cols-2">
         <li v-for="(project, index) in data" :key="index"
