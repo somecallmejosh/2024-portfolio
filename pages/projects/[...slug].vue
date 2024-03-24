@@ -33,7 +33,7 @@
     <h1>{{ blogPost.title }}</h1>
     <div class="py-12 -mx-12 lg:-mx-24" :class="blogPost.color">
       <div class="px-12 mx-auto lg:px-24">
-        <div class="aspect-[16/9] rounded-2xl bg-gray-50 shadow-lg">
+        <div class="aspect-[16/9] rounded-2xl bg-slate-50 shadow-lg">
           <img :src="blogPost.image" class="object-fit not-prose rounded-2xl" alt="Company website">
         </div>
       </div>

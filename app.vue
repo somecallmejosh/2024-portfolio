@@ -8,11 +8,11 @@
 </script>
 
 <template>
-  <div class="relative min-h-screen py-4 lg:py-24 bg-slate-200">
+  <div class="relative min-h-screen py-4 lg:py-24 bg-slate-100">
     <a href="#main-content" class="absolute top-0 left-0 p-6 text-white transition-transform duration-150 origin-top -translate-y-full bg-slate-500 focus:translate-y-0 hover:bg-slate-600 transition-color" tabindex="0">
       Skip Nav
     </a>
-    <svg aria-hidden="true" class="fixed top-0 right-0 z-0 -translate-x-1/2 -translate-y-1/2 opacity-30 text-slate-400 lg:block blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg aria-hidden="true" class="fixed top-0 right-0 z-0 -translate-x-1/2 -translate-y-1/2 opacity-20 text-slate-400 lg:block blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
       <circle cx="150" cy="150" r="150" fill="currentColor" />
     </svg>
     <svg aria-hidden="true" class="fixed bottom-0 left-0 z-0 translate-x-1/2 translate-y-1/2 opacity-30 text-slate-400 lg:block blur-2xl" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
