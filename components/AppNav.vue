@@ -6,7 +6,7 @@
     <nav aria-label="Site Navigation">
       <ul class="flex items-stretch gap-2 bg-white lg:justify-end">
         <li><nuxt-link class="inline-flex px-3 py-2 font-medium transition-colors duration-150 border border-transparent text-slate-600 rounded-xl hover:bg-slate-100 hover:text-slate-800" to="/">Home</nuxt-link></li>
-        <li><nuxt-link class="inline-flex px-3 py-2 font-medium transition-colors duration-150 border border-transparent text-slate-600 rounded-xl hover:bg-slate-100 hover:text-slate-800" to="/projects">Projects</nuxt-link></li>
+        <li><nuxt-link exact-active-class="sup" class="inline-flex px-3 py-2 font-medium transition-colors duration-150 border border-transparent text-slate-600 rounded-xl hover:bg-slate-100 hover:text-slate-800" to="/projects">Projects</nuxt-link></li>
       </ul>
     </nav>
   </div>
