@@ -1,11 +1,13 @@
 <template>
-  <div class="sticky pt-12 bg-white top-20 rounded-xl">
-    <div class="relative w-56 h-48 mx-auto transition-all duration-500 -translate-y-24 bg-slate-50 rounded-2xl hover:blur group">
-      <img class="relative z-0 flex-none object-cover w-56 h-48 rounded-2xl" src="https://www.logatot.com/assets/team/josh-95a85dfb5617d380bc60162eafa2d6fe6413112b22c35f161d6589f11580eb34.jpg" alt="Joshua Briley, UX/UI Developer" loading="lazy">
+  <div class="sticky pt-12 bg-white shadow top-6 rounded-xl">
+    <div class="px-10">
+      <div class="relative w-full mx-auto transition-all duration-500 h-72 bg-slate-50 rounded-2xl group">
+        <img class="relative z-0 flex-none object-cover w-full h-72 rounded-2xl grayscale" src="https://res.cloudinary.com/dwjulenau/image/upload/dpr_auto,e_improve,f_auto,fl_progressive,q_auto/v1713462978/josh-portfolio/josh_cropped.jpg" alt="Joshua Briley, UX/UI Developer" loading="lazy">
+      </div>
     </div>
-    <div class="prose -mt-14 prose-li:text-slate-700 prose-p:text-slate-600">
+    <div class="prose prose-li:text-slate-700 prose-p:text-slate-600">
       <div class="px-4 mb-10 text-center">
-        <p class="mb-1 text-xl font-bold">Joshua Briley</p>
+        <p class="mb-1 text-2xl font-bold">Joshua Briley</p>
         <p class="mt-0">UI/UX Developer</p>
       </div>
       <ul class="px-12 pt-10 pb-12 space-y-1 text-left text-slate-600 bg-slate-50 rounded-b-2xl">
