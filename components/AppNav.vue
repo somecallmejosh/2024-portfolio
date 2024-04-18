@@ -1,7 +1,7 @@
 <template>
   <div class="sticky top-0 z-20 flex items-center justify-between h-20 gap-10 px-6 bg-white shadow lg:h-32 rounded-xl lg:px-24 bg-opacity-60 backdrop-blur-xl">
     <nuxt-link to="/" class="">
-      <Logo class="w-auto h-14" />
+      <Logo class="w-auto h-10 lg:h-14" />
     </nuxt-link>
     <nav aria-label="Site Navigation">
       <ul class="flex items-stretch gap-2 lg:justify-end rounded-xl">
