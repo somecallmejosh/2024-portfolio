@@ -10,6 +10,7 @@ date: 2023-01-01
 logo: LogatotLogo
 techUsed: [
   'AlpineJS',
+  'Git/Github',
   'HTMX',
   'HotJar',
   'Ruby ViewComponents',

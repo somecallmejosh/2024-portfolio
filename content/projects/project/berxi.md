@@ -12,6 +12,7 @@ techUsed: [
   'Adobe CS',
   'Contentful CMS',
   'Figma',
+  'Git/Github',
   'Google Tag Manager',
   'Heap Analytics',
   'HotJar',
