@@ -24,13 +24,13 @@ LogATot, a pioneering startup focused on empowering family child care providers,
 
 ### Beyond Digital: Print Material Design
 
-- **Challenge**: Offering additional resources to alleviate the administrative load on child care providers.
-- **Solution**: I produced a range of print materials designed to streamline operations and cut costs, seamlessly supporting providers' offline tasks.
+- **Challenge**: Offering additional design resources to help minimize costs.
+- **Solution**: I produced a range of print materials designed to streamline operations and cut costs, supporting customer outreach and marketing endeavors.
 
 ### Blending Aesthetics with Functionality
 
-- **Challenge**: Creating an application that is visually engaging and robustly functional, blending front-end and backend development expertise.
-- **Solution**: Engaging in both front-end and backend development, I used ViewComponent in Ruby on Rails to ensure a unified application experience and developed a library of reusable components for efficiency.
+- **Challenge**: Creating an application that is visually engaging and intuitively functional, blending front-end and backend development expertise.
+- **Solution**: Engaging in both front-end and backend development, I used ViewComponents in Ruby on Rails to ensure a unified application experience and developed a library of reusable components for efficiency.
 
 ### Crafting a Brand Identity
 
