@@ -8,7 +8,15 @@ nextUrl: /projects/project/atk
 color: 'logatot'
 date: 2023-01-01
 logo: LogatotLogo
-techUsed: ['Tailwind CSS', 'HTMX', 'AlpineJS', 'Ruby on Rails', 'Ruby ViewComponents']
+techUsed: [
+  'AlpineJS',
+  'HTMX',
+  'HotJar',
+  'Ruby ViewComponents',
+  'Ruby on Rails',
+  'Tailwind CSS',
+  'Trello'
+]
 ---
 
 ## Project Overview at LogATot

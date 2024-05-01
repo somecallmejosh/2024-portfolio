@@ -41,7 +41,7 @@
     <LinkNewWindow :href="blogPost.url"></LinkNewWindow>
     <div class="">
       <ContentDoc />
-      <h2>Relevant Technologies</h2>
+      <h2>Relevant Tools & Technologies</h2>
       <ul class="flex flex-wrap items-center max-w-full gap-2 not-prose">
         <li v-for="(technology, index) in blogPost.techUsed" :key="index">
           <p class="px-1 py-0.5 rounded border border-slate-200 text-xs font-medium whitespace-nowrap">{{ technology }}</p>

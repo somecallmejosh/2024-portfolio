@@ -8,7 +8,19 @@ nextUrl: /projects/project/logatot
 color: berxi-2
 date: 2023-01-01
 logo: BerxiLogo
-techUsed: ['Vue/Nuxt.js', 'Tailwind CSS', 'Contentful CMS', 'Segment Tracking', 'Heap Analytics', 'Google Tag Manager', 'Various Social Media Tracking Services']
+techUsed: [
+  'Adobe CS',
+  'Contentful CMS',
+  'Figma',
+  'Google Tag Manager',
+  'Heap Analytics',
+  'HotJar',
+  'Jira',
+  'Segment Tracking',
+  'Tailwind CSS',
+  'Various Social Media Tracking Services',
+  'Vue/Nuxt.js'
+]
 ---
 
 ## Project Overview at Berxi.com

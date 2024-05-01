@@ -8,7 +8,15 @@ nextUrl: /projects/project/berxi
 color: 'atk'
 date: 2023-01-01
 logo: AtkLogo
-techUsed: ['React/Next', 'Sass/SCSS', 'Ruby on Rails', 'AlpineJS']
+techUsed: [
+  'AlpineJS',
+  'Figma',
+  'Jira',
+  'React/Next',
+  'Ruby on Rails',
+  'Ruby ViewComponents',
+  'Sass/SCSS'
+]
 ---
 
 ## Challenges and Solutions at America's Test Kitchen
