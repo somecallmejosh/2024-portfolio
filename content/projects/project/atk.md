@@ -11,6 +11,7 @@ logo: AtkLogo
 techUsed: [
   'AlpineJS',
   'Figma',
+  'Git/Github',
   'Jira',
   'React/Next',
   'Ruby on Rails',
